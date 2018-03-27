@@ -12,6 +12,10 @@ public class GitTest {
         System.out.println("lala");
         System.out.println("xaxa");
         System.out.println("456---");
+
+
+        int i=10;
+
     }
 
 
